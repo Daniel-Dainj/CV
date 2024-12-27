@@ -4,7 +4,7 @@
 
 Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
-1. https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.337.search-card.all.click
+1. https://www.bilibili.com/video/BV1hE411t7RN/
 
 深度学习 视频讲解【主讲人：李沐】【对应笔记：200-268】
 
@@ -12,11 +12,11 @@ Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 
 深度学习 视频讲解【主讲人：吴恩达】【对应笔记：300-354】
 
-1. https://www.bilibili.com/video/BV1FT4y1E74V?spm_id_from=333.337.search-card.all.click&vd_source=c9745e4447536b28b2b0735071d30bd6
+1. https://www.bilibili.com/video/BV1FT4y1E74V/
 
 土堆&李沐&吴恩达 数据集：
 
-1. 链接：https://pan.baidu.com/s/1jQQ8WyCZUJED0eWMeuXYVg  提取码：7vfm
+1. 链接：https://pan.baidu.com/s/1LaKpUH2Lpg28UVxgSwX9Tg?pwd=k9qa
 
 补充说明：数据集链接如果失效了，下面有微信，可以联系我。
 
